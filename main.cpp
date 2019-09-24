@@ -17,16 +17,16 @@ int main()
   cin>>input;
 
   if (input == "A"){
-    for(int i = 0; i < 5; i++) {
-      cout << "Add : ";
-      cin  <<  item;
-      if (item == "Q"){
-        cout << "QUITTER \n";
-        return 0;
-      }
-      list[i] = item;
-      cout << "\n" << item << " added! \n";
-    }
+        for(int i = 0; i < 5; i++) {
+              cout << "Add : "<<endl;
+              cin  >>  item;
+                  if (item == "Q"){
+                    cout << "QUITTER \n";
+                    return 0;
+                  }
+        list[i] = item;
+        cout << "\n" << item << " added! \n";
+        }
   }
   return 0;
 }

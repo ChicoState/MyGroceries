@@ -2,6 +2,8 @@
 #include<string>
 using namespace std;
 
+// Lets close this egg issue once and for all!!
+
 int main()
 {
   string list[5]; //array of 5 strings

@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/JennGriff/MyGroceries.svg?branch=master)](https://travis-ci.org/JennGriff/MyGroceries)
 
 # My Groceries
 

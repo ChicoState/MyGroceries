@@ -18,7 +18,7 @@ int main()
 
   if (input == "A"){
     for(int i = 0; i < 5; i++) {
-      cout << "Add : "
+      cout << "Add : ";
       cin  <<  item;
       if (item == "Q"){
         cout << "QUITTER \n";

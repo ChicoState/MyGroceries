@@ -4,4 +4,3 @@ install: pip install --user cpplint
 script:
     - pip install cpplint
     - cpplint *.cpp
-    - scan-build --status-bugs make
